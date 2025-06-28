@@ -1,0 +1,12 @@
+# Ignore checkpoints and temporary files
+.ipynb_checkpoints/
+_pycache_/
+
+# Ignore model and encoder files
+*.pkl
+
+
+# VSCode and OS files
+.vscode/
+.DS_Store
+Thumbs.db
